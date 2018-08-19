@@ -8,7 +8,7 @@ Xcode 9.4.1 (Swift 4)
 
 ## Screenshot
 
-![Whats-My-Number](https://github.com/mabuak/Whats-My-Number/blob/master/screenshot.png)
+![Whats-My-Number](https://github.com/mabuak/To-Do-List/blob/master/screenshot.png)
 
 ## Links
  - Apple Developer: [Swift Resources (Xcode 9 + Swift 4)](https://developer.apple.com/swift/resources/)
