@@ -15,6 +15,8 @@
 		25BB9A5C2129206200ADC7E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25BB9A5A2129206200ADC7E7 /* LaunchScreen.storyboard */; };
 		25BB9A672129206200ADC7E7 /* To_Do_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BB9A662129206200ADC7E7 /* To_Do_ListTests.swift */; };
 		25BB9A722129206200ADC7E7 /* To_Do_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BB9A712129206200ADC7E7 /* To_Do_ListUITests.swift */; };
+		25BB9A8021298ED300ADC7E7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 25BB9A7F21298ED300ADC7E7 /* README.md */; };
+		25BB9A8221298EF500ADC7E7 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 25BB9A8121298EF500ADC7E7 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		25BB9A6D2129206200ADC7E7 /* To Do ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "To Do ListUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		25BB9A712129206200ADC7E7 /* To_Do_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_ListUITests.swift; sourceTree = "<group>"; };
 		25BB9A732129206200ADC7E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25BB9A7F21298ED300ADC7E7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		25BB9A8121298EF500ADC7E7 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 		25BB9A432129206100ADC7E7 = {
 			isa = PBXGroup;
 			children = (
+				25BB9A8121298EF500ADC7E7 /* screenshot.png */,
+				25BB9A7F21298ED300ADC7E7 /* README.md */,
 				25BB9A4E2129206100ADC7E7 /* To Do List */,
 				25BB9A652129206200ADC7E7 /* To Do ListTests */,
 				25BB9A702129206200ADC7E7 /* To Do ListUITests */,
@@ -234,7 +240,9 @@
 			files = (
 				25BB9A5C2129206200ADC7E7 /* LaunchScreen.storyboard in Resources */,
 				25BB9A592129206200ADC7E7 /* Assets.xcassets in Resources */,
+				25BB9A8021298ED300ADC7E7 /* README.md in Resources */,
 				25BB9A572129206100ADC7E7 /* Main.storyboard in Resources */,
+				25BB9A8221298EF500ADC7E7 /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
